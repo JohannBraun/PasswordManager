@@ -7,9 +7,4 @@ What the program does:
 - proposing randomly generated password if wanted
 - finding and displaying already saved passwords
 
-Concepts learned in this project:
-- error handling
-- writing and reading from files
-- user interface using tkinter library
-
 try it out on: https://replit.com/@JohannBraun1/QuizzApi#main.py
