@@ -7,4 +7,4 @@ What the program does:
 - proposing randomly generated password if wanted
 - finding and displaying already saved passwords
 
-try it out on: https://replit.com/@JohannBraun1/QuizzApi#main.py
+try it out on: https://replit.com/@JohannBraun1/PasswordManager?v=1
