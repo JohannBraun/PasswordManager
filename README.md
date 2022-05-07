@@ -7,4 +7,9 @@ What the program does:
 - proposing randomly generated password if wanted
 - finding and displaying already saved passwords
 
+python concepts in this project:
+- error handling
+- reading/writing files
+- basic UI using tkinter
+
 try it out on: https://replit.com/@JohannBraun1/PasswordManager?v=1
